@@ -1,0 +1,17 @@
+C:\Users\cjbg\Documents\GitHub\HearSoundQuiz\HeartSoundQuiz\HeartSoundQuiz\bin\Debug\HeartSoundQuiz.exe.config
+C:\Users\cjbg\Documents\GitHub\HearSoundQuiz\HeartSoundQuiz\HeartSoundQuiz\bin\Debug\HeartSoundQuiz.exe
+C:\Users\cjbg\Documents\GitHub\HearSoundQuiz\HeartSoundQuiz\HeartSoundQuiz\bin\Debug\HeartSoundQuiz.pdb
+C:\Users\cjbg\Documents\GitHub\HearSoundQuiz\HeartSoundQuiz\HeartSoundQuiz\obj\Debug\HeartSoundQuiz.csprojResolveAssemblyReference.cache
+C:\Users\cjbg\Documents\GitHub\HearSoundQuiz\HeartSoundQuiz\HeartSoundQuiz\obj\Debug\View\MainWindow.g.cs
+C:\Users\cjbg\Documents\GitHub\HearSoundQuiz\HeartSoundQuiz\HeartSoundQuiz\obj\Debug\View\App.g.cs
+C:\Users\cjbg\Documents\GitHub\HearSoundQuiz\HeartSoundQuiz\HeartSoundQuiz\obj\Debug\HeartSoundQuiz_MarkupCompile.cache
+C:\Users\cjbg\Documents\GitHub\HearSoundQuiz\HeartSoundQuiz\HeartSoundQuiz\obj\Debug\HeartSoundQuiz_MarkupCompile.lref
+C:\Users\cjbg\Documents\GitHub\HearSoundQuiz\HeartSoundQuiz\HeartSoundQuiz\obj\Debug\View\MainWindow.baml
+C:\Users\cjbg\Documents\GitHub\HearSoundQuiz\HeartSoundQuiz\HeartSoundQuiz\obj\Debug\HeartSoundQuiz.g.resources
+C:\Users\cjbg\Documents\GitHub\HearSoundQuiz\HeartSoundQuiz\HeartSoundQuiz\obj\Debug\HeartSoundQuiz.Properties.Resources.resources
+C:\Users\cjbg\Documents\GitHub\HearSoundQuiz\HeartSoundQuiz\HeartSoundQuiz\obj\Debug\HeartSoundQuiz.csproj.GenerateResource.Cache
+C:\Users\cjbg\Documents\GitHub\HearSoundQuiz\HeartSoundQuiz\HeartSoundQuiz\obj\Debug\HeartSoundQuiz.exe
+C:\Users\cjbg\Documents\GitHub\HearSoundQuiz\HeartSoundQuiz\HeartSoundQuiz\obj\Debug\HeartSoundQuiz.pdb
+C:\Users\cjbg\Documents\GitHub\HeartSoundQuiz\HeartSoundQuiz\HeartSoundQuiz\bin\Debug\HeartSoundQuiz.exe.config
+C:\Users\cjbg\Documents\GitHub\HeartSoundQuiz\HeartSoundQuiz\HeartSoundQuiz\obj\Debug\HeartSoundQuiz.exe
+C:\Users\cjbg\Documents\GitHub\HeartSoundQuiz\HeartSoundQuiz\HeartSoundQuiz\obj\Debug\HeartSoundQuiz.pdb
